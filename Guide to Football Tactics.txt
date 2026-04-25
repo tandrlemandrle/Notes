@@ -80,6 +80,10 @@ b) If mentality is higher than fluidity, players will get cards or get injured.
 c) More agressive mentality means more shots and more shots converted to goals.
 d) More structured fluidity means bad decisions
 e) More fluid or more agressive means tiring out players before 90th minute
+f) If both teams play the same, agressive tactic will favor home team, and defensive tactics will favor away team
+g) It may be a good idea to play what is efficient when it's efficient, even if you are chasing result
+h) Girls should train all 4 mentality/fluidity combos
+g) For training might be a good idea to tell your team to try to develop some new scheme in offense/defense, like 1 new one a month
 
 10) Player responsibilities
 
@@ -1747,8 +1751,3 @@ OVERLOAD
     Support Duty (Multiple Strikers): Test Defence With Precision
     Trequartista (Lone Striker): Test Defence
     Trequartista (Multiple Strikers): Test Defence
-
-
-
-
-
